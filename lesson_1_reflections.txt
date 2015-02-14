@@ -1,0 +1,64 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+	
+	It quickly compares and diplayes differences
+	 so I would not have to view 
+	 every line manually to find a difference.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    To easily be able to reference ways 
+    that you worked around a problem.
+    To recreate a previous bug, 
+    to see if you can use the same fix as before.
+    So you can turn back to an older more stable version 
+    if you are having multiple problems.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    I think that the flexability
+    of manually saving is a huge
+    pro.  This seems to me to be
+    the only way to get logical
+    commits.  Being able to 
+    seperate you commits with 
+    reason seems to be very important.
+    A con would be forgetting to commit 
+    often enough, or getting 
+    carried away, and committing
+    every little thing you do.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git is a version control system
+    for programmers and multiple
+    file types.  Git knows that multiple
+    files will need to talk to each other
+    to be able to perform properly.
+    Google Docs only cares about the one 
+    type of Google Doc that is currently
+    on your screen.  
+
+How can you use the commands git log and git diff to view the history of files?
+
+    get log will tell you all the commits the file has ever had, and the git diff will tell you exactly what has been removed or added between two different commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You will always know that you can revert
+    back to any code.  Trial and error is the
+    making of humanity.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Use git for version control.
+    I will be able to easily compare
+    files to look for bugs.  Find typos
+    that I will more than likely have 
+    many of in my programming.  Using
+    git for a constructive way to save
+    progress on projects.
