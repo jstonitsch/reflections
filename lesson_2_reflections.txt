@@ -50,5 +50,13 @@ want to start adding a new feature from.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merging two branches together will put 
+all the commits on one branch and
+organize all the commits on one branch
+based on timestamp.  We show the diagram
+the way we do because this gives you a
+visual idea of where the commits come
+together on the branch.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
