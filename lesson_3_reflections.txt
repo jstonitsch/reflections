@@ -25,3 +25,28 @@ your solid code.  A branch is built off the commits.
 Clones are used to clone from GitHub to a local
 machine or if you are cloning from inside your
 local machine.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+If you have a copy of the last known state of the remote
+you will be able to compare the file to your most
+recent update of the file to be able to judge if you
+are ready to merge the files and see the conflicts.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would have to be in contact with everyone working
+on the project all the time.  We would have to email
+each other over everychange, or we would have to 
+seperate features and work.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Keeping everything on one branch keeps things
+extremely simple to be able to only have to 
+track one branch for updating.  The nessicity
+of having more branches is to keep control
+of new features or a new direction of the 
+program maybe.  These experimental items could
+break our code and make our production code
+fail.
