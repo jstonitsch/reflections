@@ -5,3 +5,23 @@ always be able to keep your code updated
 without remembering where the most updated 
 file is.  If you are working with a group
 of people, this will make collaborating much easier.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+You would not want Git to pull changes
+automaticly, because if it pulls in the
+middle of you working that could really
+make things difficult for you.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is only to be used while on the GitHub site.
+While on GitHub this is how you would clone a
+repository to make changes too that you do not
+have permission too.  A branch is breaking off the
+master branch to add a new feature or experiment
+with code without taking the risk of breaking
+your solid code.  A branch is built off the commits.
+Clones are used to clone from GitHub to a local
+machine or if you are cloning from inside your
+local machine.
