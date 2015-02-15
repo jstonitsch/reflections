@@ -1,0 +1,7 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+If you work from multiple computers you will 
+always be able to keep your code updated
+without remembering where the most updated 
+file is.  If you are working with a group
+of people, this will make collaborating much easier.
