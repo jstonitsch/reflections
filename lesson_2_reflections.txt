@@ -60,3 +60,12 @@ together on the branch.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+Git's automatic merging is a real time 
+saver if it works with no conflicts.
+It is also a pro that Git does not
+just merge everything.  You will
+have instances where you will need
+to manually merge files and will need
+to talk to the other persons file you
+are mergeing with.
